@@ -28,7 +28,7 @@
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
         <guid>http://www.wty.center/en/presentation/dir/fourth/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         <media:content url="http://www.wty.centerimages/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -58,7 +58,7 @@
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
         <guid>http://www.wty.center/en/presentation/third/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         <media:content url="http://www.wty.centerimages/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -88,7 +88,7 @@
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
         <guid>http://www.wty.center/en/presentation/second/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         <media:content url="http://www.wty.centerimages/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -118,7 +118,7 @@
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
         <guid>http://www.wty.center/en/presentation/first/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         <media:content url="http://www.wty.centerimages/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         

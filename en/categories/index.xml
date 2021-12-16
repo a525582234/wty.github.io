@@ -28,7 +28,7 @@
         
         <guid>http://www.wty.center/en/categories/syntax/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
@@ -46,7 +46,7 @@
         
         <guid>http://www.wty.center/en/categories/themes/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
@@ -64,7 +64,7 @@
         
         <guid>http://www.wty.center/en/categories/hugo/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
@@ -82,7 +82,7 @@
         
         <guid>http://www.wty.center/en/categories/diagram/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
@@ -100,7 +100,7 @@
         
         <guid>http://www.wty.center/en/categories/math/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         

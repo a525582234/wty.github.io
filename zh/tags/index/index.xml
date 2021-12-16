@@ -20,15 +20,39 @@
 
       
       <item>
-        <title>Posts</title>
+        <title>帖子</title>
         <link>http://www.wty.center/zh/posts/</link>
-        <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
+        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
         <author>wty525582234@gmail.com (walter wu)</author>
         
         <guid>http://www.wty.center/zh/posts/</guid>
         <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>WTY</dc:creator>
         
-        <dc:creator>Hugo Authors</dc:creator>
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>画廊</title>
+        <link>http://www.wty.center/zh/gallery/</link>
+        <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
+        <author>wty525582234@gmail.com (walter wu)</author>
+        
+        <guid>http://www.wty.center/zh/gallery/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>WTY</dc:creator>
         
         
         

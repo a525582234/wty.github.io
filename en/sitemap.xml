@@ -118,29 +118,9 @@
   </url><url>
     <loc>http://www.wty.center/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/shortcode/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/shortcodes/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
@@ -328,315 +308,75 @@
   </url><url>
     <loc>http://www.wty.center/en/tags/privacy/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/privacy/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/rich-content/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/rich-content/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/shortcodes/</loc>
     <lastmod>2019-12-19T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/shortcodes/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/hugo/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/categories/hugo/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/categories/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/categories/hugo/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/syntax-highlight/</loc>
     <lastmod>2019-12-18T10:33:41+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/syntax-highlight/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/syntax-highlight/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/math-typesetting/</loc>
     <lastmod>2019-12-17T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/math-typesetting/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/amoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/amoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/amoji/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/bamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/bamoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/bamoji/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/emoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/emoji/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/emoji-support/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/emoji-support/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/gamoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/gamoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/gamoji/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/namoji/</loc>
     <lastmod>2019-12-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/namoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/namoji/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/categories/diagram/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/categories/diagram/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/categories/diagram/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-viz/</loc>
     <lastmod>2019-11-18T21:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-viz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-viz/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-wavedrom/</loc>
     <lastmod>2019-11-18T18:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-wavedrom/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-wavedrom/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-chartjs/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-chartjs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-chartjs/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2019-11-18T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-js-sequence-diagrams/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-js-sequence-diagrams/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/tags/diagram/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/tags/diagram/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/tags/diagram/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-mermaid/</loc>
     <lastmod>2019-11-17T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-mermaid/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-mermaid/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/categories/math/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/categories/math/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/categories/math/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-mathjax/</loc>
     <lastmod>2019-11-16T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-mathjax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-mathjax/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-katex/</loc>
     <lastmod>2019-11-15T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-katex/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-katex/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/posts/test-flowchart/</loc>
     <lastmod>2019-11-14T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/posts/test-flowchart/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/posts/test-flowchart/"
-                />
   </url><url>
     <loc>http://www.wty.center/en/gallery/cartoon/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>

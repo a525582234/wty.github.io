@@ -28,7 +28,8 @@
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://www.wty.center/en/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
-        
+        <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
         <dc:creator>walter wu</dc:creator>
         <media:content url="http://www.wty.centerimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
@@ -46,7 +47,8 @@
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://www.wty.center/en/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
-        
+        <content:encoded>&lt;p&gt;Sample images from &lt;a href=&#34;https://pixabay.com&#34;&gt;Pixabay&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
         <dc:creator>walter wu</dc:creator>
         <media:content url="http://www.wty.centerimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         

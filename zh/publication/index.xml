@@ -28,7 +28,7 @@
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>http://www.wty.center/zh/publication/article/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
@@ -46,7 +46,7 @@
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>http://www.wty.center/zh/publication/book/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
@@ -64,7 +64,7 @@
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
         <guid>http://www.wty.center/zh/publication/misc/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
         
         
