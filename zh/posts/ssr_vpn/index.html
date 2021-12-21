@@ -671,7 +671,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var searchResultPosition = JSON.parse("\"side\"");
+    var searchResultPosition = JSON.parse("\"main\"");
     
     var sectionType = JSON.parse("\"posts\"");
     
@@ -2581,6 +2581,11 @@ document.addEventListener('DOMContentLoaded', function () {
   <script>document.querySelector('.sidebar').classList.remove('hide')</script>
   <div class="toc__flexbox" data-position="fixed">
     <h6 class="toc__title" data-ani="true">目录</h6>
+    
+      <label class="switch" data-ani="true">
+        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
+        <span class="slider round"></span>
+      </label>
     
   </div>
   <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
