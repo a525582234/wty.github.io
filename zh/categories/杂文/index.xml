@@ -21,6 +21,54 @@
 
       
       <item>
+        <title>sublime设置取消更新无效</title>
+        <link>http://www.wty.center/zh/posts/sublime_setting/</link>
+        <pubDate>Mon, 20 Dec 2021 12:00:06 +0900</pubDate>
+        <author>wty525582234@163.com (walter wu)</author>
+        <atom:modified>Mon, 20 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>http://www.wty.center/zh/posts/sublime_setting/</guid>
+        <description>sublime设置&amp;quot;update_check&amp;quot;: false,没有效果 Preferences-&amp;gt;Settings-U</description>
+        <content:encoded>&lt;h1 id=&#34;sublime设置update_check-false没有效果&#34;&gt;sublime设置&amp;quot;update_check&amp;quot;: false,没有效果&lt;/h1&gt;
+&lt;p&gt;Preferences-&amp;gt;Settings-User中设置&amp;quot;update_check&amp;quot;:false,（注意是英文符号，逗号结尾）&lt;/p&gt;
+&lt;p&gt;可是没有什么效果，重启还是还是弹出来自动更新的提示，直到注册了软件之后：&lt;/p&gt;
+&lt;p&gt;help－Enter License输入&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;—– BEGIN LICENSE —–  
+TwitterInc  
+200 User License  
+EA7E-890007  
+1D77F72E 390CDD93 4DCBA022 FAF60790  
+61AA12C0 A37081C5 D0316412 4584D136  
+94D7F7D4 95BC8C1C 527DA828 560BB037  
+D1EDDD8C AE7B379F 50C9D69D B35179EF  
+2FE898C4 8E4277A8 555CE714 E1FB0E43  
+D5D52613 C3D12E98 BC49967F 7652EED2  
+9D2D2E61 67610860 6D338B72 5CF95C69  
+E36B85CC 84991F19 7575D828 470A92AB  
+—— END LICENSE —— 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;如果提示已过期，上网重新找注册码！！&lt;/p&gt;
+</content:encoded>
+        <dc:creator>wty</dc:creator>
+        <media:content url="http://www.wty.centerimages/feature1/color-palette.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>工具</category>
+            
+          
+        
+        
+          
+            
+              <category>杂文</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
         <title>傻瓜式搭建科学上网梯子（VPN）</title>
         <link>http://www.wty.center/zh/posts/ssr_vpn/</link>
         <pubDate>Mon, 20 Dec 2021 12:00:06 +0900</pubDate>
