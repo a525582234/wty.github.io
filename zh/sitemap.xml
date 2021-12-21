@@ -190,24 +190,6 @@
                 href="http://www.wty.center/zh/showcase/"
                 />
   </url><url>
-    <loc>http://www.wty.center/zh/gallery/cartoon/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wty.center/en/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://www.wty.center/ko/gallery/cartoon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://www.wty.center/zh/gallery/cartoon/"
-                />
-  </url><url>
     <loc>http://www.wty.center/zh/gallery/photo/</loc>
     <lastmod>2019-10-31T10:20:16+09:00</lastmod>
     <xhtml:link
@@ -382,6 +364,23 @@
                 rel="alternate"
                 hreflang="zh"
                 href="http://www.wty.center/zh/publication/misc/misc_any_folder_name_1/"
+                />
+  </url><url>
+    <loc>http://www.wty.center/zh/gallery/cartoon/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wty.center/en/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://www.wty.center/ko/gallery/cartoon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://www.wty.center/zh/gallery/cartoon/"
                 />
   </url><url>
     <loc>http://www.wty.center/zh/tags/index/</loc>
