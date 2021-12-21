@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>ss on WTY&#39;s Blog</title>
+    <link>http://www.wty.center/zh/tags/ss/</link>
+    <description>Recent content in ss on WTY&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>wty525582234@163.com (walter wu)</managingEditor>
+    <webMaster>wty525582234@163.com (walter wu)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 20 Dec 2021 12:00:06 +0900</lastBuildDate>
+    
+        <atom:link href="http://www.wty.center/zh/tags/ss/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>傻瓜式搭建科学上网梯子（VPN）</title>
+        <link>http://www.wty.center/zh/posts/ssr_vpn/</link>
+        <pubDate>Mon, 20 Dec 2021 12:00:06 +0900</pubDate>
+        <author>wty525582234@163.com (walter wu)</author>
+        <atom:modified>Mon, 20 Dec 2021 12:00:06 +0900</atom:modified>
+        <guid>http://www.wty.center/zh/posts/ssr_vpn/</guid>
+        <description>前言 搭建梯子主要分为以下几个步骤： 租借vps; 安装ssh远程登陆客户端； 通过脚本安装Shadowsocks; 安装SSR客户端，科学上网; 租借</description>
+        <content:encoded>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+&lt;p&gt;搭建梯子主要分为以下几个步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;租借vps;&lt;/li&gt;
+&lt;li&gt;安装ssh远程登陆客户端；&lt;/li&gt;
+&lt;li&gt;通过脚本安装Shadowsocks;&lt;/li&gt;
+&lt;li&gt;安装SSR客户端，科学上网;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;租借vps&#34;&gt;租借vps&lt;/h2&gt;
+&lt;p&gt;上图所展示的就是国外常用的vps服务商，以前用过vultr和hostinger，体验并不算特别好，端口经常被封，网速还不怎么快。我现在用的是国内腾讯云的香港服务器。vultr里面买一个最低配置的也是一个月5美刀，腾讯云的话一年三百多，算起来价格差不多。所以还是强烈推荐国内用户使用腾讯云的服务器把！！&lt;/p&gt;
+&lt;h2 id=&#34;安装ssh远程登陆客户端&#34;&gt;安装ssh远程登陆客户端&lt;/h2&gt;
+&lt;p&gt;百度搜索finalShell&lt;/p&gt;
+&lt;p&gt;傻瓜式下一步安装；&lt;br /&gt;
+连接到自己的服务器&lt;br /&gt;
+&lt;img src=&#34;http://www.wty.center/images/vpn/image-20211220223335002.png&#34; alt=&#34;image-20211220223335002&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;成功登录，出现[root@xxxx ~]#后，全部复制以下代码粘贴回车（一键安装脚本）&lt;/p&gt;
+&lt;h2 id=&#34;通过脚本安装shadowsockss&#34;&gt;通过脚本安装Shadowsockss&lt;/h2&gt;
+&lt;p&gt;输入一下命令回车执行&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;wget –no-check-certificate  https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;http://www.wty.center/images/vpn/202001061578248107812711.jpg&#34; alt=&#34;202001061578248107812711&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然后添加文件权限&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;chmod +x shadowsocks.sh
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;接着执行脚本，设置ss的密码端口和加密方式。&lt;br /&gt;
+&lt;img src=&#34;http://www.wty.center/images/vpn/image-20211220223925641.png&#34; alt=&#34;image-20211220223925641&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;./shadowsocks.sh 2&amp;gt;&lt;span class=&#34;p&#34;&gt;&amp;amp;&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; tee shadowsocks.log
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;然后按照要求输入密码、端口、加密方式&lt;/p&gt;
+&lt;p&gt;按任意键开始…或按Ctrl+C取消&lt;/p&gt;
+&lt;p&gt;输入完后，脚本执行自动安装，此时需要等待5-15几分钟安装完成。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.wty.center/images/vpn/202001061578248189271712.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;当出现上图信息时，说明SS已经搭建成功。&lt;/p&gt;
+&lt;p&gt;如果需要修改配置信息输入以下命令&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;vim  /etc/shadowsocks.json
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;这个就是配置文件，按a进行输入，:wq 进行保存；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.wty.center/images/vpn/image-20211220224412248.png&#34; alt=&#34;image-20211220224412248&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;保存成功后执行一下命令进行重启&lt;/p&gt;
+&lt;p&gt;常用：&lt;/p&gt;
+&lt;p&gt;启动&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssserver -c /etc/shadowsocks.json -d start
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;停止&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssserver -c /etc/shadowsocks.json -d stop
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;重启&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;ssserver -c /etc/shadowsocks.json -d reload
+&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;安装ssr客户端科学上网&#34;&gt;安装SSR客户端，科学上网&lt;/h2&gt;
+&lt;p&gt;客户端下载好直接双击就可以使用了，不需要安装；&lt;/p&gt;
+&lt;p&gt;Windows 版本SSR客户端&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.magento2u.com/wp-content/uploads/ShadowsocksR-4.7.0-win.zip&#34;&gt;https://www.magento2u.com/wp-content/uploads/ShadowsocksR-4.7.0-win.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;macOS 版本SSR客户端&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.magento2u.com/wp-content/uploads/shadowsocksr-android-3.5.4.zip&#34;&gt;https://www.magento2u.com/wp-content/uploads/shadowsocksr-android-3.5.4.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Android 版本SSR客户端&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.magento2u.com/wp-content/uploads/ShadowsocksX-NG-R8.zip&#34;&gt;https://www.magento2u.com/wp-content/uploads/ShadowsocksX-NG-R8.zip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;打开以后，在桌面右下角任务栏出现，点右键，点从粘贴板导入，然后就是见证奇迹的时刻，我们成功了。安卓端的ssr工具也很多，自行下载安装包安装就好，用法都差不多，ios下，国内市场的ssr客户端都下架了，需要去美区App Store下载，美区账号在淘宝买就好，一般一两块钱一个，ios端推荐Shadowrocket，不过要花钱买，几块钱，用我们之前注册的PayPal就好，也有个免费的Patatso Lite。用法都差不多，从剪贴板导入ssr地址就好。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.wty.center/images/vpn/image-20211220225312622.png&#34; alt=&#34;image-20211220225312622&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;结语&#34;&gt;结语&lt;/h2&gt;
+&lt;p&gt;相对于ssr我还是比较倾向于用ss来作为服务端，以前用ssr的时候经常段都被封，后面换了ss端口很少被封了。客户端使用ssr是因为体验感比ss强多了。。&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</content:encoded>
+        <dc:creator>wty</dc:creator>
+        <media:content url="http://www.wty.centerimages/feature1/graph.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>科学上网</category>
+            
+          
+            
+              <category>ss</category>
+            
+          
+        
+        
+          
+            
+              <category>杂文</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

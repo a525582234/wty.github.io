@@ -11,40 +11,22 @@
     <description>Recent content in Categories on WTY&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <managingEditor>wty525582234@gmail.com (walter wu)</managingEditor>
-    <webMaster>wty525582234@gmail.com (walter wu)</webMaster>
+    <managingEditor>wty525582234@163.com (walter wu)</managingEditor>
+    <webMaster>wty525582234@163.com (walter wu)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 12:00:06 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 12:00:06 +0900</lastBuildDate>
     
         <atom:link href="http://www.wty.center/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
-        <title>syntax</title>
-        <link>http://www.wty.center/zh/categories/syntax/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wty525582234@gmail.com (walter wu)</author>
+        <title>杂文</title>
+        <link>http://www.wty.center/zh/categories/%E6%9D%82%E6%96%87/</link>
+        <pubDate>Mon, 20 Dec 2021 12:00:06 +0900</pubDate>
+        <author>wty525582234@163.com (walter wu)</author>
         
-        <guid>http://www.wty.center/zh/categories/syntax/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>walter wu</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>themes</title>
-        <link>http://www.wty.center/zh/categories/themes/</link>
-        <pubDate>Fri, 20 Dec 2019 12:00:06 +0900</pubDate>
-        <author>wty525582234@gmail.com (walter wu)</author>
-        
-        <guid>http://www.wty.center/zh/categories/themes/</guid>
+        <guid>http://www.wty.center/zh/categories/%E6%9D%82%E6%96%87/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
