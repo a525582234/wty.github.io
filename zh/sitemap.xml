@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.wty.center/zh/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>http://www.wty.center/zh/categories/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,14 +38,11 @@
                 href="http://www.wty.center/zh/categories/"
                 />
   </url><url>
-    <loc>http://www.wty.center/zh/tags/ss/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://www.wty.center/zh/posts/sublime_setting/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+    <loc>http://www.wty.center/zh/posts/docker_command/</loc>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/tags/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -62,16 +59,22 @@
                 href="http://www.wty.center/zh/tags/"
                 />
   </url><url>
-    <loc>http://www.wty.center/zh/posts/ssr_vpn/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>http://www.wty.center/zh/tags/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/posts/</loc>
-    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/categories/%E6%9D%82%E6%96%87/</loc>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/tags/ss/</loc>
+    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/posts/sublime_setting/</loc>
+    <lastmod>2021-12-20T12:00:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/posts/ssr_vpn/</loc>
     <lastmod>2021-12-20T12:00:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/</loc>
