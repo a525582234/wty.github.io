@@ -184,14 +184,14 @@ docker cp [local_path] rabbitmq:/[container_path]
         
           
             
-              <category>工具</category>
+              <category>docker</category>
             
           
         
         
           
             
-              <category>杂文</category>
+              <category>Linux</category>
             
           
         
@@ -239,7 +239,7 @@ E36B85CC 84991F19 7575D828 470A92AB
         
           
             
-              <category>杂文</category>
+              <category>工具文</category>
             
           
         
@@ -370,14 +370,14 @@ E36B85CC 84991F19 7575D828 470A92AB
             
           
             
-              <category>ss</category>
+              <category>工具</category>
             
           
         
         
           
             
-              <category>杂文</category>
+              <category>工具文</category>
             
           
         

@@ -21,12 +21,30 @@
 
       
       <item>
-        <title>杂文</title>
-        <link>http://www.wty.center/zh/categories/%E6%9D%82%E6%96%87/</link>
+        <title>Linux</title>
+        <link>http://www.wty.center/zh/categories/linux/</link>
         <pubDate>Thu, 23 Dec 2021 16:32:06 +0900</pubDate>
         <author>wty525582234@163.com (walter wu)</author>
         
-        <guid>http://www.wty.center/zh/categories/%E6%9D%82%E6%96%87/</guid>
+        <guid>http://www.wty.center/zh/categories/linux/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>walter wu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>工具文</title>
+        <link>http://www.wty.center/zh/categories/%E5%B7%A5%E5%85%B7%E6%96%87/</link>
+        <pubDate>Mon, 20 Dec 2021 12:00:06 +0900</pubDate>
+        <author>wty525582234@163.com (walter wu)</author>
+        
+        <guid>http://www.wty.center/zh/categories/%E5%B7%A5%E5%85%B7%E6%96%87/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>walter wu</dc:creator>
