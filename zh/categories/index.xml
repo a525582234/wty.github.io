@@ -14,11 +14,29 @@
     <managingEditor>wty525582234@163.com (walter wu)</managingEditor>
     <webMaster>wty525582234@163.com (walter wu)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
-    <lastBuildDate>Thu, 23 Dec 2021 16:32:06 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 16:32:06 +0900</lastBuildDate>
     
         <atom:link href="http://www.wty.center/zh/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Java</title>
+        <link>http://www.wty.center/zh/categories/java/</link>
+        <pubDate>Thu, 30 Dec 2021 16:32:06 +0900</pubDate>
+        <author>wty525582234@163.com (walter wu)</author>
+        
+        <guid>http://www.wty.center/zh/categories/java/</guid>
+        <description></description>
+        <content:encoded></content:encoded>
+        <dc:creator>walter wu</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>Linux</title>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.wty.center/zh/</loc>
-    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>http://www.wty.center/zh/categories/</loc>
-    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,17 +38,20 @@
                 href="http://www.wty.center/zh/categories/"
                 />
   </url><url>
-    <loc>http://www.wty.center/zh/tags/docker/</loc>
-    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+    <loc>http://www.wty.center/zh/categories/java/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
   </url><url>
-    <loc>http://www.wty.center/zh/posts/docker_command/</loc>
-    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+    <loc>http://www.wty.center/zh/tags/mybatisplus/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
   </url><url>
-    <loc>http://www.wty.center/zh/categories/linux/</loc>
-    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+    <loc>http://www.wty.center/zh/tags/springboot/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/posts/springboot&#43;mybatisplus-%E5%AE%9E%E7%8E%B0%E5%A4%9A%E6%95%B0%E6%8D%AE%E6%BA%90%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/tags/</loc>
-    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -66,6 +69,15 @@
                 />
   </url><url>
     <loc>http://www.wty.center/zh/posts/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/tags/docker/</loc>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/posts/docker_command/</loc>
+    <lastmod>2021-12-23T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/categories/linux/</loc>
     <lastmod>2021-12-23T16:32:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/posts/sublime_setting/</loc>
