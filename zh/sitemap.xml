@@ -44,6 +44,12 @@
     <loc>http://www.wty.center/zh/tags/mybatisplus/</loc>
     <lastmod>2021-12-30T16:32:06+09:00</lastmod>
   </url><url>
+    <loc>http://www.wty.center/zh/tags/nodejs/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/posts/nodejs%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E7%9A%84%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
     <loc>http://www.wty.center/zh/tags/springboot/</loc>
     <lastmod>2021-12-30T16:32:06+09:00</lastmod>
   </url><url>
@@ -67,6 +73,18 @@
                 hreflang="zh"
                 href="http://www.wty.center/zh/tags/"
                 />
+  </url><url>
+    <loc>http://www.wty.center/zh/tags/vue/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/tags/vue-admin-template/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/posts/vue%E6%A8%A1%E6%9D%BF%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%80/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
+  </url><url>
+    <loc>http://www.wty.center/zh/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2021-12-30T16:32:06+09:00</lastmod>
   </url><url>
     <loc>http://www.wty.center/zh/posts/</loc>
     <lastmod>2021-12-30T16:32:06+09:00</lastmod>
