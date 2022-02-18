@@ -13,7 +13,7 @@
     <language>zh</language>
     <managingEditor>wty525582234@163.com (walter wu)</managingEditor>
     <webMaster>wty525582234@163.com (walter wu)</webMaster>
-    <copyright>©2021, All Rights Reserved</copyright>
+    <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 23 Dec 2021 16:32:06 +0900</lastBuildDate>
     
         <atom:link href="http://www.wty.center/zh/categories/linux/index.xml" rel="self" type="application/rss+xml" />
@@ -27,7 +27,7 @@
         <author>wty525582234@163.com (walter wu)</author>
         <atom:modified>Thu, 23 Dec 2021 16:32:06 +0900</atom:modified>
         <guid>http://www.wty.center/zh/posts/docker_command/</guid>
-        <description>Docker容器信息 ##查看docker容器版本 docker version ##查看docker容器信息 docker info ##查看docker容器帮助 docker --help 镜像操作 镜像查看 提示：对</description>
+        <description>Docker容器信息 ##查看docker容器版本 docker version ##查看docker容器信息 docker info ##查看docker容器帮助 docker --help docker安装启动 安装</description>
         <content:encoded>&lt;h2 id=&#34;docker容器信息&#34;&gt;Docker容器信息&lt;/h2&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;##查看docker容器版本
 docker version
@@ -35,6 +35,11 @@ docker version
 docker info
 ##查看docker容器帮助
 docker --help
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;docker安装启动&#34;&gt;docker安装启动&lt;/h2&gt;
+&lt;p&gt;安装比较简单，这种安装的Docker不是最新版本，不过对于学习够用了，依次执行下面命令进行安装。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install docker.io
+$ sudo systemctl start docker
+$ sudo systemctl enable docker
 &lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;镜像操作&#34;&gt;镜像操作&lt;/h2&gt;
 &lt;h3 id=&#34;镜像查看&#34;&gt;镜像查看&lt;/h3&gt;
 &lt;p&gt;提示：对于镜像的操作可使用镜像名、镜像长ID和短ID。&lt;/p&gt;
