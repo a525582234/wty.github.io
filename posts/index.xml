@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://www.wty.center/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 17:06:54 +0800</lastBuildDate><atom:link href="http://www.wty.center/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://www.wty.center/posts/my-first-post/</link>
-      <pubDate>Tue, 14 Dec 2021 17:06:54 +0800</pubDate>
-      
-      <guid>http://www.wty.center/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - WTY&#39;s BLOG</title>
+        <link>http://www.wty.center/posts/</link>
+        <description>All Posts | WTY&#39;s BLOG</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wty525582234@gmail.com (wty)</managingEditor>
+            <webMaster>wty525582234@gmail.com (wty)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Oct 2020 13:38:00 &#43;0800</lastBuildDate><atom:link href="http://www.wty.center/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Index</title>
+    <link>http://www.wty.center/test/</link>
+    <pubDate>Mon, 12 Oct 2020 13:38:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://www.wty.center/test/</guid>
+    <description><![CDATA[13223]]></description>
+</item></channel>
 </rss>

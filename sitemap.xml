@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://www.wty.center/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://www.wty.center/zh/sitemap.xml</loc>
-    
-      <lastmod>2022-02-18T16:32:06+09:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://www.wty.center/ko/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://www.wty.center/test/</loc><lastmod>2020-10-12T13:38:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.wty.center/posts/</loc><lastmod>2020-10-12T13:38:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.wty.center/</loc><lastmod>2020-10-12T13:38:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.wty.center/about/</loc><lastmod>2019-02-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.wty.center/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://www.wty.center/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
