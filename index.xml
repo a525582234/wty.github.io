@@ -4,14 +4,14 @@
         <link>http://www.wty.center/</link>
         <description>盛年不重来，一日难再晨</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>wty525582234@gmail.com (wty)</managingEditor>
-            <webMaster>wty525582234@gmail.com (wty)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Oct 2020 13:38:00 &#43;0800</lastBuildDate>
+            <webMaster>wty525582234@gmail.com (wty)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 12 May 2022 10:55:00 &#43;0800</lastBuildDate>
             <atom:link href="http://www.wty.center/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Index</title>
-    <link>http://www.wty.center/test/</link>
-    <pubDate>Mon, 12 Oct 2020 13:38:00 &#43;0800</pubDate>
+    <title>Spring&#39;s Controllers are single or multiple instances and how to secure concurrency？</title>
+    <link>http://www.wty.center/spring%E7%9A%84controller%E6%98%AF%E5%8D%95%E4%BE%8B%E8%BF%98%E6%98%AF%E5%A4%9A%E4%BE%8B%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E5%B9%B6%E5%8F%91%E7%9A%84%E5%AE%89%E5%85%A8/</link>
+    <pubDate>Thu, 12 May 2022 10:55:00 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://www.wty.center/test/</guid>
-    <description><![CDATA[13223]]></description>
+    <guid>http://www.wty.center/spring%E7%9A%84controller%E6%98%AF%E5%8D%95%E4%BE%8B%E8%BF%98%E6%98%AF%E5%A4%9A%E4%BE%8B%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E5%B9%B6%E5%8F%91%E7%9A%84%E5%AE%89%E5%85%A8/</guid>
+    <description><![CDATA[ANSWER：    The controller is singleton by default, so don&rsquo;t use non-static member variables, otherwise data logic will be confused. It is because of this single instance that it is not thread-safe.    Validation： 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26  package com.riemann.springbootdemo.controller; import org.springframework.context.annotation.Scope; import org.]]></description>
 </item></channel>
 </rss>

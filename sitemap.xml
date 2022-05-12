@@ -2,9 +2,11 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://www.wty.center/test/</loc><lastmod>2020-10-12T13:38:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://www.wty.center/posts/</loc><lastmod>2020-10-12T13:38:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://www.wty.center/</loc><lastmod>2020-10-12T13:38:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://www.wty.center/about/</loc><lastmod>2019-02-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://www.wty.center/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>http://www.wty.center/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>http://www.wty.center/categories/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/posts/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/tags/spring/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/categories/spring/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/spring%E7%9A%84controller%E6%98%AF%E5%8D%95%E4%BE%8B%E8%BF%98%E6%98%AF%E5%A4%9A%E4%BE%8B%E6%80%8E%E4%B9%88%E4%BF%9D%E8%AF%81%E5%B9%B6%E5%8F%91%E7%9A%84%E5%AE%89%E5%85%A8/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/tags/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/</loc><lastmod>2022-05-12T10:55:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://www.wty.center/about/</loc><lastmod>2019-02-28T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
